@@ -32,7 +32,7 @@ Project is divided in two parts:
 
 1. Frequent items mostly related to the growth levels.
 
-![Alt text](img/items.png?raw=true "Title")
+![Alt text](img/items.PNG?raw=true "Title")
 
 2. Classification of a country into a cluster based on measurements taken works fairly well. In addition, it is possible to detect if a country's COVID-19 policies differ from others'.
 
